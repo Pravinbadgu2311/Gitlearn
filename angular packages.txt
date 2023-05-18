@@ -1,0 +1,11 @@
+1) npm i node           --installing node
+2)npm i -g @angular/cli --installing angular cli
+3)ng serve              --Run the file
+4)ng new ..file name..  --create angular folder
+5)ng generate component --generate component
+6)npm i                 --installing all packages required
+
+
+
+
+6)dev packages npm i --only=dev
